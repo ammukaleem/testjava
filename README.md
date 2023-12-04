@@ -1,6 +1,6 @@
 # test-java
-Java (Maven) application for tracking time on the job/?
+Java (Maven) application for tracking time on the job
 
 Test-java
 
-Good evening My Dear Students!! Welcome to DevOps!!
+Good Morning My Dear Students!! Welcome to DevOps!!
